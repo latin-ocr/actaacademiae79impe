@@ -1,0 +1,40 @@
+msa ) 4⁸ ( sa«-
+
+admodum in fiilutioue affumsimus. Euidens autem est
+ivam radicem fore vel maximam vel minimam: hic sci-
+licet idem discrimen vlu venit, atque in resolutione om-
+nium aequationum per series recurrentes, qua methodo
+pariter tantum vna aequationum radix vel maxima vel
+minima inueniri (olet, sicque solutio nostra data iam ex-
+tra omne oubium est collocata. Occasione autem metho-
+
+di, qua sumus vsi, sequens problema adiunxisse non pi-
+gebit.
+
+Problema.
+
+Inuenire omnes functiones quantitatis variabilis n,
+quibus huic conditioni generali satisfiat:
+
+‹12:212an(n÷a)÷b<1>:(n÷t3)÷c<1>=(n-t‘fflr etc·
+
+Solutio.
+
+§. 39. Quodsi ratiocinium vti in praecedenti
+problemate instituamus, facile patebit, isti conditioni sa->
+'tisfieri posse, statuendo CD·n: Α len, ita vt A et k‘smt
+quantitates constantes. Facta autem hac substitutione pro-
+
+dibit haec aequatio: Ἴ .
+Alea-:Aak⁷¹÷oe÷Abk⁷²4f³÷Ackn÷7÷Adkn43÷ etc.
+«quae per Ale diuisa praebet
+1:0k2—t—bk3 -t--ck‘V-l-dffi etc.
+ita vt k designet «quampiam radicem huius aequationis5 ’
+cuius adeo singulae radices conditioni praescriptae pariter
+
+satisfacient. Quin etiam ornnes has diuersas solutiones quo·
+nodocunque inter se combinare licebit. *Ita fi p, q, κ, Δᾏ
+
+ete. fuerint radices istius aequationis‚ problemati nostro
+gene-
+

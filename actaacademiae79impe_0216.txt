@@ -1,0 +1,37 @@
+»3³3ss 7 17>ss ( &tegu-
+
+quibus Problemata omnia resoluuntur, quae circa· impul*-
+fiones curuarum Fornicibue extruendis determinandas pro·
+poni possunt. Hinc Curuas minimae vel maximae impu-3³- ·
+sionis definiri, formas varias ad venustatem er firmitatem
+fimul comparandas, combinari, perspicuum est, quin vel
+curvarum natura, vel ponderum ssiperincumbentium lex
+quidpiam negotii facessere queat. Cum enim, dara- pro
+lubitu Curua concamerationis propria, detur eo¹ ipso va-
+riabilium x, y relatio, atque ponderum lex, vel ex indo-
+le et forma molis extruendae ⁷ vel ex lubitu itidem, pen-
+dere ponatur, dabitur quoque variabilium z< et y relatio,
+quo expressio integralis euoluenda'vnius variabilis· funftio
+euadet, neque minimorum, maximorumue definitio com·'
+munes calculi infinitefimalis operationes praetergredietur.
+Quod quanti commodi iu' re praesertim ad praxim aptati.-
+da futurum fit, per (e est manifestumss
+
+Exemplum Ι.
+
+Tab. V. concamerationis ex binis semicirculis parallelis exr-
+Fig. 9· unctae impuifioues definire.
+
+x Esto radius interni cireuli Essz-„b (fig. 9.)‚ ex-
+terni FB: c. Relationis aequatio inter x et ys* absciffis
+a vertice· E computatis, erit huiusmodi· (A)y::2bx—-x².
+Relatio vero inter z atque y, absciffis itidem a pumero F
+computandis. aequatione exprimetur (B)y::2cz-z².
+Et quoniam FEzazc-b, atque radius oscu1i in ver-
+tice E ipse est radius circuli b, erit α R¹:(c—b) b. Sub-
+stituautur itaque loco z, atque y, eiusque differentialium
+in integrali (M) (ξ. 19.) valores in x ex Aequationibus
+(A) (B) eruendi3 formula euadet
+
+<c—b>
+

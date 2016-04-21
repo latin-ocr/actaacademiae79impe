@@ -1,0 +1,56 @@
+»ἐν-ἒξ ) 3⁵ ( ἓῐ-ὀέω
+
+§. 11. Haec postrema series ob concinnitatem vti-
+que meretur, vt in eius indolem accuratius inquiramus.
+Ac primo quidem patet, fi sumeremus u: 1 vel u> 1,
+seriem prodituram effe diuergentem3 cum in forma gene-
+
+ἦ
+tali ῐ-Ξ-η--ῖι numerator continuo magis denominatorem
+superet, ideoque omnes termini adeo in infinitum excre-
+scant, quod signum est summae imaginariae3 id quod per
+
+formulam τιῑῑ-ὂν manifesto declaratur, fiqui dem nullius
+
+numeri logarithmus ipso maior euadere potest. Quando
+autem u initate minus accipitur, summa istius seriei vti-
+que finita prodire potest, quoties scilicet formula ¹57⁹ fini-
+
+tum accipit valorem, id quod euenit, quando ly < 1, fine
+y < e· Sumto autem γει), vnde fit 21:23, series nostra
+etiamnunc summam infinitam habebit, etiamsi eius ter-
+mini continuo decrescant, atque ad‘eo tandem euanescant.
+
+ξ. 12. In hac autem serie imprimis memorabile
+occurrit, quod, fi u tantillo superet ξ, terminos tandem in
+infinitum excrescant, id quod egregie conuenit cum iis,
+
+ 
+
+quae olim circa valorem producti 1. 2. 3 ..... n obserua-
+·ui in calculo differentiali pag. 466. Quodsi enim pona-
+tur T: Χ. znn .n' vt fit
+
+leznln-—l1-l2ml3 ..... —ln
+
+loco citato demonstrarii effe l1÷lz÷l3÷l4÷n n—i-ln
+:3I2n÷(n÷})ln-n÷n—¹n— -1--η--εῑε,
+
+vnde sequitur ipsum prodwstum
+
+ 
+
+300 οινιό
+
+etc.
+
+ 
+
+γε wx71÷÷><e¹²n ³⁶0 n³
+
+1.2‚3...„n:.„-.„—m ,.-.-....
+
+ 
+
+E 2 sicque
+
